@@ -1,0 +1,21 @@
+{ "projectName": "VkTest",
+  "defaultRandomMessageLength": 7,
+  "defaultTimeoutTime": 15000,
+  "defaultTestMessage": "aqa: defaultTestMessage",
+  "UI": {
+    "scheme": "http://",
+    "host": "localhost:8089/web",
+    "login": "login",
+    "password": "password"
+},
+  "API": {
+    "token": "",
+    "v": "2",
+    "host": "http://localhost:8089/api"
+  },
+  "image": {
+    "path": "../../images/image.png",
+    "type": "image/png"
+  }
+}
+
